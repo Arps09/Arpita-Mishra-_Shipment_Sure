@@ -240,7 +240,7 @@ The following models were trained and evaluated:
 - ROC Curves  
 
 ### ⭐ Best Model  
-**Random Forest Classifier** performed the best and was selected for deployment.
+**the best performed and was selected for deployment.
 
 ---
 
