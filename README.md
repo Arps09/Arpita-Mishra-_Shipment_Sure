@@ -240,7 +240,7 @@ The following models were trained and evaluated:
 - ROC Curves  
 
 ### ⭐ Best Model  
-**the best performed and was selected for deployment.
+The best performed and was selected for deployment.
 
 ---
 
